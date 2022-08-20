@@ -2,4 +2,4 @@
 
 n=8
 m=7
-echo $(( n*m ))
+echo $(( n*o))
